@@ -1,0 +1,9 @@
+{
+  "projects": [
+    {
+      "name": "Flits",
+      "repositoryPath": "flitsnode/flits-core",
+      "latestRelease": "2.0.1"
+    }
+  ]
+}

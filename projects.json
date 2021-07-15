@@ -3,7 +3,7 @@
     {
       "name": "Flits",
       "repositoryPath": "flitsnode/flits-core",
-      "latestRelease": "2.0.1"
+      "latestRelease": "2.0.0"
     },
     {
       "name": "Klimatas (KTS)",
@@ -12,7 +12,7 @@
     },
     {
       "name": "Stakecube (SCC)",
-      "repositoryPath": "stakecube/stakecube",
+      "repositoryPath": "stakecube/StakeCubeCoin",
       "latestRelease": "v2.1.0"
     },
     {
@@ -118,7 +118,7 @@
     {
       "name": "Suvereno (SOVE)",
       "repositoryPath": "decenomy/SUV",
-      "latestRelease": "v2.0.1.0"
+      "latestRelease": "v2.0.1.1"
     },
     {
       "name": "Bare (BARE)",
@@ -223,7 +223,7 @@
     {
       "name": "Eska (ESK)",
       "repositoryPath": "decenomy/ESKA",
-      "latestRelease": "v2.0.0.0"
+      "latestRelease": "v2.0.0.1"
     },
     {
       "name": "Rapids (RPD)",
@@ -468,7 +468,7 @@
     {
       "name": "Monkey (MONK)",
       "repositoryPath": "decenomy/MONK",
-      "latestRelease": "v3.0.1"
+      "latestRelease": "v3.0.1.1"
     },
     {
       "name": "Masternodes.me (MNME)",
